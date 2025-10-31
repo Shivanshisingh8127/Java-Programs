@@ -29,6 +29,7 @@ public class datatype {
 
 // comments                  only one line
 /*
-kbjvjbknlmlkjbj                for multiple line comments
+hello this is user            for multiple line comments
 */
+
 
