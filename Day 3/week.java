@@ -1,7 +1,7 @@
 import java.util.*;
 public class  week {
     public static void main(String args[]){
-// program to find the weak name
+// program to find the weak name  using switch statement
        Scanner sc=new Scanner(System.in);
        System.out.println("enetr day number");
        int num=sc.nextInt();
